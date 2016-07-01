@@ -1,0 +1,32 @@
+body {
+  font-family: 'Lato', sans-serif; }
+
+.navbar {
+  height: 150px;
+  margin-bottom: 0px; }
+
+nav.navbar div.container-fluid {
+  justify-content: center;
+  display: flex; }
+
+ul.nav {
+  height: 150px; }
+
+ul.nav li {
+  height: 150px; }
+
+ul.nav li a {
+  height: 149px;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 30px; }
+
+.info-box {
+  width: 100%;
+  height: 200px;
+  background-color: rgba(95, 95, 95, 0.5);
+  margin-bottom: 20px; }
+
+.nav-fixed {
+  position: fixed;
+  top: 0px; }
